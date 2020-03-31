@@ -1,0 +1,11 @@
+ mok: 2
+can: 3
+funny: 1
+let: 2
+life: 3
+love: 1
+ruin: 3
+run: 2
+such: 1
+thing: 1
+your: 3
